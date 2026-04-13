@@ -1,0 +1,1 @@
+ALTER TABLE public.subjects ADD COLUMN pass_percentage integer NOT NULL DEFAULT 70;
